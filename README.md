@@ -1,7 +1,7 @@
 # graphQL-basic
 Go to server folder:
-  - run npm i to install dependencies
-  - node server.js to start the server
+  - To install dependencies run: 'npm i' 
+  - To start the server from the server folder: 'node server.js'
   
   
 Go to client and launch index.html in browser
